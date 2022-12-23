@@ -1,4 +1,4 @@
-# CS6400
+# CS6400 Database System Concepts and Design
 
 Author: Yinuo Wang
 
