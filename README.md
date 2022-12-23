@@ -1,2 +1,5 @@
 # CS6400
-CS6400 project
+
+Author: Yinuo Wang
+
+This is the root repo of CS6400 project, which has a C++ robot part and a Java client part
