@@ -1,6 +1,6 @@
 [submodule "Seattle-LibMS"]
 	path = Seattle-LibMS
-	url = https://github.com/allenwang-git/Seattle-LibMS.git
+	url = https://github.com/allen-gt-repos/seattle-libms.git
 [submodule "seattle_turtlebot_nav_ros"]
 	path = seattle_turtlebot_nav_ros
-	url = https://github.com/allenwang-git/seattle_turtlebot_nav_ros.git
+	url = https://github.com/allen-gt-repos/seattle_turtlebot_nav_ros.git
